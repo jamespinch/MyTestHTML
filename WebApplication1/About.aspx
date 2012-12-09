@@ -8,6 +8,6 @@
         About
     </h2>
     <p>
-        This is a test.
+        This is a test of git.
     </p>
 </asp:Content>
